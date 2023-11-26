@@ -26,8 +26,8 @@
 
   <h3>📬 Contact Me</h3>
   <p>
-    <a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a><br>
-    <a href="mailto:YOUR_EMAIL" target="_blank">Email</a>
+    <a href="https://www.linkedin.com/in/shafin-alam" target="_blank">LinkedIn</a><br>
+    <a href="mailto:shafin.alam1@outlook.com" target="_blank">Email</a>
   </p>
 
 </div>
