@@ -15,7 +15,7 @@
   </ul>
 
   <h3>🏏 Interests</h3>
-  <p>When I'm not coding, I enjoy reading and listening to music.</p>
+  <p>When I'm not coding, I enjoy sports and listening to music.</p>
 
   <h3>🎯 Goals</h3>
   <p>Aspiring to a career where I can blend my analytical skills with business acumen to solve business problem.</p>
