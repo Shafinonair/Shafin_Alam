@@ -1,34 +1,3 @@
-# About me 
-
-Hi 👋 I am Shafin!
-
-I am a data analyst and R&D engineer who is passionate about using analytical and technical skills to solve complex problems. With more than six years of experience in product manufacturing and R&D, I have played a key role in the development and quality control of cutting-edge semiconductor technology at Microsoft.
-  
-  <p>
-    <a href="YOUR_LINKEDIN_URL" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Badge"/>
-    </a>
-    Visit my LinkedIn for more information and to get in touch.
-  </p>
-  
-  <p>
-    <a href="YOUR_BLOG_URL" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-informational?style=flat&logo=blogger&logoColor=white&color=F57C00" alt="Blog Badge"/>
-    </a>
-    Check out my personal blog for articles and insights.
-  </p>
-  
-  <p>
-    <a href="YOUR_MEDIUM_URL" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=black" alt="Medium Badge"/>
-    </a>
-    Follow me on Medium for more written content.
-  </p>
-
-</div>
-
-
-
 <div align="center">
   
   <h1>Shafin Alam 🌟</h1>
@@ -52,9 +21,8 @@ I am a data analyst and R&D engineer who is passionate about using analytical an
   <p>Aspiring to a career where I can blend my analytical skills with business acumen to solve business problem.</p>
 
   <h3>🎉 GIF: Motivational Quote</h3>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/WVNnyv96C3iltOFutg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/getmanfred-data-datos-everywhere-WVNnyv96C3iltOFutg">via GIPHY</a></p>
   <!-- Replace 'YOUR_GIF_URL' with the actual URL of your chosen GIF -->
-  <img src="YOUR_GIF_URL" alt="Motivational Quote GIF">
+  <img src="https://media.giphy.com/media/WVNnyv96C3iltOFutg/giphy.gif" alt="Motivational Quote GIF">
 
   <h3>📬 Contact Me</h3>
   <p>
