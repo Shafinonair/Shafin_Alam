@@ -1,4 +1,3 @@
-# [Your Name or GitHub Username] 🌟
 ![Header Image](https://raw.githubusercontent.com/Shafinonair/Shafin_Alam/main/header_en.svg)
 
 ### 👋 Hi there! How are you doing?
