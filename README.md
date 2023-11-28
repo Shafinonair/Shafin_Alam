@@ -1,6 +1,7 @@
 <div align="center">
   
   <h1>Shafin Alam 🌟</h1>
+  header_en.svg
 
   <h3>📘 Introduction</h3>
   <p>I'm a Masters student in Business Analytics, passionate about data-driven solutions.</p>
