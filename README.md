@@ -6,7 +6,7 @@
 
 ### 🙋‍♂️ About Me
 
-👔 Currently working as a [Job Title] at [Company Name].
+👔 Currently Studying as a Business Analyst at University of oulu.
 🚀 Love for science and innovation.
 ❤️ Passionate about data analytics and technology.
 🔍 Currently researching [your research interests].
