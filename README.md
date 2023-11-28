@@ -5,15 +5,22 @@
 ---
 
 ### 🙋‍♂️ About Me
+# [Your Name] – 
 
-👔 Currently Studying as a Business Analyst at University of oulu.
-🚀 Love for science and innovation.
-❤️ Passionate about data analytics and technology.
-🔍 Currently researching [your research interests].
-💻 Coding since [year] with [X]+ years of experience in [your area of expertise].
-🌍 Living in [Finland] with my lovely [family/partner/pets].
+## 👔 About Me
+- 🎓 Msc Business Analytics at University of Oulu 
+- 🚀 I have a deep love for science and innovation.
+- ❤️ Passionate about data analytics and technology.
+- 🔍 Currently researching [your specific research interests].
+- 💻 Coding since [year] with over [X] years of experience in [your area of expertise].
+- 🌍 Living in Finland with my lovely family.
 
-![Your GIF Description](URL-to-your-GIF)
+## 🛠️ Skills & Interests
+- 📊 Data Analytics
+- 🧬 Research in [Research Area]
+- 🖥️ Proficient in [Programming Languages/Tools]
+- 🤖 Interested in AI and Machine Learning
+- 🎵 Enjoy [Personal Interests/Hobbies]
 
 ---
 
