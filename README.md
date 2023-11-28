@@ -1,13 +1,9 @@
 ![Header Image](https://raw.githubusercontent.com/Shafinonair/Shafin_Alam/main/header_en.svg)
 
-### 👋 Hi there! How are you doing?
 
 ---
 
-### 🙋‍♂️ About Me
-# [Your Name] – 
-
-## 👔 About Me
+## 🙋‍♂️ About Me
 - 🎓 Msc Business Analytics at University of Oulu 
 - 🚀 I have a deep love for science and innovation.
 - ❤️ Passionate about data analytics and technology.
