@@ -1,8 +1,5 @@
 ![Header Image](https://raw.githubusercontent.com/Shafinonair/Shafin_Alam/main/header_en.svg)
 
----
-# I am Shafin Alam 
-
 ## 🙋‍♂️ About Me
 - 🎓 Msc Business Analytics at University of Oulu 
 - 🚀 I have a deep love for science and innovation.
