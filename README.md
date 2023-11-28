@@ -11,7 +11,7 @@
 ❤️ Passionate about data analytics and technology.
 🔍 Currently researching [your research interests].
 💻 Coding since [year] with [X]+ years of experience in [your area of expertise].
-🌍 Living in [Country] with my lovely [family/partner/pets].
+🌍 Living in [Finland] with my lovely [family/partner/pets].
 
 ![Your GIF Description](URL-to-your-GIF)
 
