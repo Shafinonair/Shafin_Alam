@@ -1,36 +1,23 @@
-<div align="center">
-  
-  <h1>Shafin Alam 🌟</h1>
-  header_en.svg
+# [Your Name or GitHub Username] 🌟
 
-  <h3>📘 Introduction</h3>
-  <p>I'm a Masters student in Business Analytics, passionate about data-driven solutions.</p>
+### 👋 Hi there! How are you doing?
 
-  <h3>💼 What I Do</h3>
-  <p>Specializing in data analytics, with skills in Excel, SQL, Python, Power BI, Big-query, Looker studio and tableau.</p>
+---
 
-  <h3>📁 Projects</h3>
-  <ul>
-    <li><a href="YOUR_DATA_ANALYSIS_PROJECT_LINK" target="_blank">Data Analysis Project</a></li>
-    <li><a href="YOUR_SQL_DATABASE_PROJECT_LINK" target="_blank">SQL Database Project</a></li>
-  </ul>
+### 🙋‍♂️ About Me
 
-  <h3>🏏 Interests</h3>
-  <p>When I'm not coding, I enjoy sports and listening to music.</p>
+👔 Currently working as a [Job Title] at [Company Name].
+🚀 Love for science and innovation.
+❤️ Passionate about data analytics and technology.
+🔍 Currently researching [your research interests].
+💻 Coding since [year] with [X]+ years of experience in [your area of expertise].
+🌍 Living in [Country] with my lovely [family/partner/pets].
 
-  <h3>🎯 Goals</h3>
-  <p>Aspiring to a career where I can blend my analytical skills with business acumen to solve business problem.</p>
+![Your GIF Description](URL-to-your-GIF)
 
-  <h3>🎉 GIF: Motivational Quote</h3>
-  <!-- Replace 'YOUR_GIF_URL' with the actual URL of your chosen GIF -->
-  <img src="https://media.giphy.com/media/WVNnyv96C3iltOFutg/giphy.gif" alt="Motivational Quote GIF">
+---
 
-  <h3>📬 Contact Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/shafin-alam" target="_blank">LinkedIn</a><br>
-    <a href="mailto:shafin.alam1@outlook.com" target="_blank">Email</a>
-  </p>
+### 📬 Contact Me
 
-</div>
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-LinkedIn-profile-link)
