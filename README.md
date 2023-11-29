@@ -1,12 +1,12 @@
 ![Header Image](https://raw.githubusercontent.com/Shafinonair/Shafin_Alam/main/header_en.svg)
 
 ## 🙋‍♂️ About Me
-- 🎓 Msc Business Analytics at University of Oulu 
+- 🎓 Msc Business Analytics at the University of Oulu 
 - 🚀 I have a deep love for science and innovation.
 - ❤️ Passionate about data analytics and technology.
-- 🔍 Currently researching [your specific research interests].
-- 💻 Coding since [year] with over [X] years of experience in [your area of expertise].
-- 🌍 Living in Finland with my lovely family.
+- 🔍 Currently researching On the Disturbance of energy.
+- 💻 Coding since 2021 with over 3 years of experience in Data analytics and R&D.
+- 🌍 Living in Finland.
 
 ## 🛠️ Skills
 - 📈 **Data Analytics**
@@ -26,5 +26,5 @@
 
 ### 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafin.alam1@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-3672d1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafin.alam1@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafin-alam/)
