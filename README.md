@@ -4,7 +4,7 @@
 - 🎓 Msc Business Analytics at the University of Oulu 
 - 🚀 I have a deep love for science and innovation.
 - ❤️ Passionate about data analytics and technology.
-- 🔍 Currently researching On the Disturbance of energy.
+- 🔍 Currently working On the CX related project.
 - 💻 Coding since 2021 with over 3 years of experience in Data analytics and R&D.
 - 🌍 Living in Finland.
 
