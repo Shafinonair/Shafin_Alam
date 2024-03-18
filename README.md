@@ -5,7 +5,7 @@
 - 🚀 I have a deep love for science and innovation.
 - ❤️ Passionate about data analytics and technology.
 - 🔍 Currently working On the CX related project.
-- 💻 Coding since 2021 with over 3 years of experience in Data analytics and R&D.
+- 💻 Coding since 2021 with over 2 years of experience in Data analytics.
 - 🌍 Living in Finland.
 
 ## 🛠️ Skills
